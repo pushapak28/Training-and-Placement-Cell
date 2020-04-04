@@ -1,0 +1,2 @@
+# Training-and-Placement-Cell
+This application provides automated system for on-line recording of academic details of students for third and final year for all semesters of students. The TPO office shall verify the records by actual documents.  Once verified records of students are made available to TPO he/she can supply short listed candidates as per declared cut of marks as well as some other criterion desired by companies coming for conducting campus drive. The list of short listed can be sent to companies using system generated email. 
