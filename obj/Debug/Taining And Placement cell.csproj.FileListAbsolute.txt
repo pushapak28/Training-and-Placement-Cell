@@ -1,0 +1,5 @@
+F:\C# Web\sample\sample placement cell\sample placement cell\bin\sample placement cell.dll
+F:\C# Web\sample\sample placement cell\sample placement cell\bin\sample placement cell.pdb
+F:\C# Web\sample\sample placement cell\sample placement cell\obj\Debug\Taining And Placement cell.csprojResolveAssemblyReference.cache
+F:\C# Web\sample\sample placement cell\sample placement cell\obj\Debug\sample placement cell.dll
+F:\C# Web\sample\sample placement cell\sample placement cell\obj\Debug\sample placement cell.pdb
